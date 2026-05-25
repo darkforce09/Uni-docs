@@ -1,0 +1,84 @@
+
+Hej och välkommen till del två. Vi kör vidare från de första delarna av respirairationtions föreläsningen går vi vidare in I avsnitt två. Vi skulle precis till att börja prata om hur gasutbytet går till. För att beskriva det måste vi komma in på vilka gaslagar vi har och vad pulmanär diffusion är. Gaslagarna beskriver hur koncentration, volym och patrialtryck samvarierar av olika gaser som vi andas.
+
+Vi måste förstå hur samverkan går till och hur den påverkar vår andning för att begripa hur allting hänger ihop. Vi har några olika gaslagar. Jag nämnde I förra sektionen att det fanns något som hette Boils lag. Det nämnde vi I samband med inspirationen. Det berättar för oss att tryck gånger volym är konstant när temperaturen är densamma.
+
+Ökar vi volymen då kommer trycket att behöva justeras för att upprätthålla samma konstanta förhållande. När volymen ökar måste trycket minska proportionellt för att sambandet ska stämma. Det är därför jag säger att när vi ökar en volym, då kommer trycket att minska. Och när vi minskar en volym, då kommer trycket att öka. Daltons slag anger att det totala trycket hos en gas är summan av alla patrialtryck, alltså deltryck, av de gaser som ingår I en blandning.
+
+Om vi tar luften som exempel så har ju till exempel syre och koldioxid alltid samma procentuella andel av luften I atmosfären. Men det partiella syretrycket I en viss mängd luft den justeras beroende på vilket atmosfärst tryck som råder. De materiella gastrycken ska hela tiden summeras och bli det totala trycket hos en gas. Det partiella gastrycket mäts oftast I millimeter kvicksilver. Om vi tar ett exempel och tänker att vi är på toppen av Mount Everest.
+
+Jag nämnde det också I samband med en tidigare föreläsning. Om man är så högt upp på ett berg kan det vara lätt att tro att det finns mindre syre där. Men faktum är att det fortfarande finns tjugoett procent syre där uppe på Mount Everest topp också. Som det gör här nere vid havsytan där vi är. Skillnaden är att det är ett lägre atmosfäriskt tryck uppe på Mount Everest Top.
+
+De här tjugoett procenten syre är som mer utspridda på större volym. Därför minskar sylimolekylerna till antalet I en given volym mot om man jämför med här nere på havsnivå. Förstår vi de olika patrialtrycken Då kommer vi också förstå vad som driver gasernas diffusion I kroppen. Vi kommer tillbaka till det lite senare. I kroppen är gasen vanligtvis löst I vätskor.
+
+Här finns ytterligare två parametrar som berättar för oss hur gaserna beter sig I vår kropp. Vi har Charles och Henrys lagar som hjälper oss att förstå just det sambandet som har med temperaturen och lösligheten I en vätska att göra. Vi börjar med Charles lag. Den säger att när gasens temperatur ökar I en volym, då kommer volymen öka proportionellt. Temperaturen avgör vilken volym gasen kommer att Ju varmare temperatur, desto större volym.
+
+Varm gas tar större plats. Henrys lag, vad säger den? Den säger att gaser diffunderar från ett högt tryck till ett lågt tryck. Det här är genomgående för väldigt mycket I kroppen. Jag tjatar och tjatar I alla sammanhang tror jag att när någonting förflyttar sig som alltså inte kostar någonting så går det alltid från högt till lågt.
+
+Det spelar ingen roll om vi pratar om tryck, koncentration, elektrisk laddning. Vi ska jämna ut saker och ting från det höga till en annan sida där det är lågt för att jämna ut. Henrys lag beskriver det här när det gäller gaser. Gasen diffunderar alltid från ett ställe där det är högt tryck till ett annat ställe där det är lågt tryck för att jämna ut. Vi ska ta en läskflaska som exempel.
+
+För att illustrera det här. Vi har en stängd kapsyl. Vi har en kolsyrad läsk, kan vara vilken som helst. Det behöver inte vara den på bilden. Den är stängd och förseglad.
+
+Det betyder att kolsyran som finns I den här läsken den är I det här skicket löst nere I vätskan. Vi ser inga bubblor när vi tittar in I den här vätskan. Varför ser man inte kolsyrebubblorna när korken sitter på? Det beror på att trycket som finns under den här kapsylen, under kapsylen här nere, I den här luftspalten, är tillräckligt hög för att gasen ska vara löst här nere I vätskan. Är trycket tillräckligt högt, då kommer gasen att lösa sig här.
+
+Men öppnar vi kapsilen Först och främst vet vi att när vi öppnar en kapsil så pyser det ganska mycket. Det är för att vi har en tryckskillnad där, som vi bryter. När vi bryter den här så kommer trycket att minska. Inne I flaskan. Gasen som finns I läsken kommer att vilja försöka jämna ut det nya förhållandet som är ovanför ytan.
+
+Det vart ett annat tryck som varit lägre här nu. I och med att det är lägre här än vad gastrycket är här inne, då har vi skapat den här skillnaden och en drivkraft. Nu vill gasen försöka jämnas ut. Så det högre gast, gastrycket här, kommer försöka transportera sig upp hit för att jämna ut här, så det blir högre här uppe. Alltså en högre koncentration av kolsyaäsken mot den anklänsande luften.
+
+Gasen som finns inne I läsken kommer nu att expandera. När gasen expanderar får vi de synliga gassbubblorna som bildas. Och på så sätt lyfter. Från djupare delar går gassbubblorna upp hit mot ytan för att kunna ta sig upp till luften. För att jämna ut så att det blir en jämvikt.
+
+Vi kan också känna igen oss. Jag ska se om jag ska göra så här. Vi ska försöka jämna ut förhållandet. Då brukar det bli den här skumen som bildas när man får de synliga gassbubblorna som kommer till ytan. Så kommer gassbubblorna poppa sönder och så frigörs gasen hit upp I luften.
+
+Om vi tar ett annat exempel som vi kanske kan känna igen oss I I. Om vi tänker oss att det är kallt ute och så öppnar vi en sån här läskflaska eller om det är bubbelvatten eller var det någonting någon flytande vätska med kolsyra I. Och så öppnar vi den ute när det är kallt. Då kommer det inte att pyssa så mycket. Vi får inte ljudet när vi knäcker kapsylen eller öppnar på skruvkorken.
+
+Och det kommer heller inte att pyssa över så mycket. Men om det istället skulle vara väldigt varmt, blir ut en varm sommardag och så öppnar vi en flaska. Då kanske man kan erindda sig om att om man har gjort det någon gång att det är så himla lätt att det pyser över rejält utan att vi har skakat den fastän flaskan som sagt har varit I vila. Så kommer det ändå att pysa jättemycket när vi öppnar kapsylen. Varför är det så?
+
+Jo, nu är vi tillbaka på gaslagarna. En gas löser sig mycket lättare I en kall vätska än I en varm. Har vi en kall dag och vi bryter här, då kommer den här tryckskillnaden inte vara lika stark drivkraft eftersom det är kallt här nere. Gasen vill hellre vara I en kall vätska, där trivs den bra. Då kommer den inte vilja vara så snabb och ta sig upp hit för att jämna ut.
+
+Men är det varmt en varm dag, då är läsken också förhoppningsvis. Eller antagligen varm, Den är antagligen varm om det är varmt ute. Det gillar inte riktigt gasen. Är det varmt här kommer gasen allt den kan för att snabbast se för att jämna ut tryckskillnaden som uppstår när man knäcker kapylens lock. Och då får vi att gasen kommer förflytta sig mycket snabbare och pyser det supermycket, så att det kan svämma över.
+
+Hur snabbt en gas kan diffundera beror alltså på tryckskillnader och det beror på lösligheten av gasen som finns I vätskan. Förändrar man trycket kommer gasmolekylerna att förflytta sig mellan vätska och luft för att alltid sträva mot jämvikt. På den här bilden ser vi sambandet. Förändrar vi trycket. Här har vi en behållare där vi har luft det vita och så har vi en vätska här.
+
+Det är en sluten behållare. Vi öppnar inte den som en kapsyl. Här är ett slutet förhållande. Här har vi ett jämviktsförhållande. Här står det I jämvikt med varandra utifrån att det är samma temperatur.
+
+Och Vi har ett tryck som är I balans här. Skulle vi förändra det här taket, så vi trycker ner taket I behållaren. Vad kommer ni ihåg om vi minskar en volym som är luften, vad händer då med trycket här inne? Jo, det kommer att öka. Här var balansförhållandet.
+
+Det är lite mer utspritt på molekylerna här än här, men det är fortfarande I balans. Om vi ökar trycket här, då kommer det här vilja hitta en ny balans. Vilket gör att gasmolekylerna som finns här kommer vilja förflytta sig snabbt som tusan och lösa sig mer här I vätskan för att vi ska få ett nytt förhållande. Då ser ni att det fortfarande är större spridning här än vad det är här, men det är fortfarande en jämvikt. Trycket I och med pilarna blir intensivare och större än vad det är på en större volym.
+
+Löslighet av olika vätskor. Framförallt är det syre och koldioxid som är de mest relevanta för oss att lite grepp på. Hur reagerar de och fungerar det I kroppen? Koldioxid generellt ser vi också I diagrammet på den svarta linjen. Den ligger mycket högre upp här än vad syre gör, som är den röda linjen.
+
+Den här axeln beskriver hur lätt en gas löser sig. Här har vi temperaturen. I diagrammet kan man utläsa att koldioxid löser sig mycket lättare än vad syre gör. Faktum är att den har ungefär tjugofem gånger högre löslighet än syre. Både koldioxid och syre är mer lösliga än kväve är.
+
+Det är också en gas som finns I kroppen. Cirkulation och gasutbyte. Vi behöver cirkulera blodet I syfte att kunna ett gasutbyte. Kopplingen mellan det cirkultoriska och det respiratortoriska systemet gick vi igenom när vi tittade på lungcirkulationen. Här sammanfattas processen lite grann.
+
+Det första som händer är att gas kommer in och ut genom lungorna eftersom vi andas här. Här är en bronkiol som går vidare upp mot Trakia. Det andra som händer är att syre och koldioxid byts ut här emellan alveolerna och kapillärerna som finns omslutet. Det som händer sen är att gasen löser sig I blodet och transporteras via vårt cirkulerar system. Och så pumpas det ut här I kroppen.
+
+Här har vi celler som finns långt ute I kroppens alla vävnader. Här har vi kapillärerna där vi har kapillärfiltrationen jag beskrev I blodföreläsningen. När vi kommer hit möjliggör vi ett utbyte av att gaserna kan diffundera över det här membranet. Här har vi utbytet. Vi lämnar av syre och vi plockar upp koldioxid.
+
+Som sedan åker tillbaka via hjärtat upp till lungorna där vi lämnar av koldioxid och plockar upp nytt syre. Pulmonär diffusion vad betyder det? Nu är vi tillbaka på det här. Vi ska förflytta gaser från lungan över till blodet. Alltså det pulverära diffusionerna gasutbyte mellan alviolen och det kapillära blodet åt båda håll.
+
+Här ser ni här nere I bilden. Bilden till höger är syre och koldioxid. Skillnaden här är väggen över, här emellan alviolen och kapillären. Det är det respirator membranet. Hela det här avsnittet.
+
+Respitoriskt membran. Här ser ni en inzoomad bild av det respirator membranet. Funktionen syftar till att fylla på med syrevävnaderna som behövs till den oxidativa energiproduktionen, Den aeroba produktionen av ATP I mitokondrierna. Det behövs också för att vi ska kunna göra oss av med koldioxid från vävnaderna som bildas I mitokondrierna, de som satt och tröttaade ut koldioxid. Vi påminner oss om att gaser diffunderar också från ett område med högre gastryck till ett område med lägre gastryck.
+
+Skillnaderna I patrialtryck hosgaserna mellan alviol och blod är med och skapar tryckradienten över det här respirator membranet. Det respirator membranet är för övrigt sammansatt av både den alviolära väggen och den kapillära väggen som är på den här sidan. Plus att båda respektive basmembran ingår tillsammans I det här så att det blir det respirator membranet. Skillnaderna I de här patrialttrycken hos gaserna mellan alviol och blod Det är det som avgör vilken riktning på diffusion vi kommer få. Vi har ett högt patrialtryck av syre på den här sidan av det respirator membranet och vi har ett lågt patrialtryck här på den här sidan av det respirator membranomet kommer det vara högt här och lågt här Alltså kommer det bli från att diffunderar från högt till lågt ut hit Tittar man på koldioxid så kommer det mycket koldioxid här Här har vi ganska lite koldioxid när vi tagit ett nytt fräscht andetag.
+
+Då är det mycket högre koldioxid här på blodsidan. Det kommer diffunderar från högt till lågt. Och så förflyttas gaserna via diffusion på det här sättet. Skulle det vara så att vi har lika stora patrialtryck på båda sidor av det respiratoriska membranet så kallar man att man har ett eklibrium. Då är det Lika mycket och vi får inget gasutbyte alls Då blir det liksom noll som är spel Den här bilden är från boken Människokroppen.
+
+Det här är en superbra bild som man egentligen kan beskriva det mesta av de här sakerna utifrån. Dels visar den patrialtrycken av både syre och koldioxid I de olika diffunderande leden mellan alviolen och mellan cellen. Som ni ser är det flera steg mellan alviolen och mellan cellen. Syre I det här fallet, pet är ju patrialtrycket för syre, ska först tas ifrån alviolen över det respirator membranet in I lungkapäreren. Det är alltså ett steg.
+
+Sedan transporteras det vidare ner till vävnadskapiäreren. Här ska det fundera till steg från kapillär till extra cellulära vätskan som finns här. Därifrån måste den ta sig vidare, för det är inte dit den ska. Utan den ska I slutändan in till cellen, mitokondrierna. Då måste den diffunderar ett steg till.
+
+Som de här siffrorna också visar så ser vi tydligt att gasorna diffunderar från högt till lågt tryck. Det är nödvändigt att behålla skillnaden I gradienten över membranet För att diffusion och gastransporten ska kunna fortgå. Vi har syre som kommer in med ett partialtryck av tretton komma tre. Här kommer det syrefattigt blod som bara har fem komma tre. Alltså är det mycket högre här än här.
+
+Då kommer vi fylla på med syre, det funderar över här, ända tills det är lika högt patrialtryck kvar I lungan som det nu har fyllts på med I blodet. När de här är lika stor kommer det inte diffunderar över något mer. Utan blodet är fullmatat med så mycket vi kan Vi fortsätter ta syre som exempel och så följer vi den vägen. Nu är det tretton komma tre här har vi fyllt på med Så far vi ner hit. Vi har fortfarande tretton komma tre.
+
+Vi har inte gjort av med någon syre här. Eretrocyterna har ju ingen egen aerob metabolism, så den förbrukar inget av det här syret utan det bara transporteras med. När det kommer ner hit ska vi försöka släppa av syret från vår erytrrosit. Spjälka ut det från hemoglobinmolekylen. Det gör det för att vi ser att det är tretton komma tre.
+
+Vad händer här nere I cellen? Här nere har vi ett partialtryck som är lägre än fem komma tre. I den extra cellulära vätskan har vi ett partialtryck som är fem komma tre I och med det är det lite högre här än vad det är här I och med att det är lite högre här än här så kommer det att ske en diffusion från extra cellulära vätskan till cellen där vi har mitokondrien. Som sitter och knapra på och därmed förbrukar syre. Här minskar det hela tiden, för det är här det går åt.
+
+I och med att vi har ett flöde hitåt så kommer vi lämna av den mängd som är tretton komma tre så mycket så att vi får fem komma tre så att den här siffran och den här siffran hamnar lika med varandra. För när det är lika mycket syre här som här då kan vi inte fylla på med något mer. Då är det stopp. Därför kommer syret som minskat I fem komma tre att fortsätta och följa hela cirkulationen tillbaka hit. Då är vi tillbaka på mängden syre som är fem komma tre.
+
+Den här principen följer samma mekanismer för koldioxid. När det gäller syre lämnade vi bara av ungefär tjugofem procent av den syremängd som vi har här. Sedan kommer resterna att cirkulera tillbaka. Sjuttiofem procent av syret som bärs runt I blodet kommer fortsätta runt så här. En bra reserv.
+
+När vi pratade om föreläsningen om blodet så gick

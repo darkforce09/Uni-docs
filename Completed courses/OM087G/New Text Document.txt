@@ -1,0 +1,212 @@
+
+ 
+
+
+
+
+
+
+
+
+
+
+Skrivanvisning OM087G 
+Akademiskt och professionellt skrivande med stöd av forskningsprocessen - Muntlig och skriftlig inlämningsuppgift, 4,0 hp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Artiklar
+
+
+Alzheimer's AND experiences AND qualitative:
+Name: Couples living with Alzheimer's disease talk about sex and intimacy: A phenomenological qualitative study
+Link: https://pubmed.ncbi.nlm.nih.gov/36594356/ 
+
+(Alzheimer OR dementia) AND "lived experience" AND qualitative:
+Name: Exploring the lived experience: impact of dementia diagnosis on individuals with cognitive impairment - a qualitative study
+Link: https://pubmed.ncbi.nlm.nih.gov/38302870/ 
+Name: Personal and complex: The needs and experiences related to technology use for people living with dementia
+Link: https://pubmed.ncbi.nlm.nih.gov/35420505/ 
+Name: 'Firstly, I'm not treated like a fool.'-the perspective of people with dementia on a dementia-friendly hospital
+Link: https://pubmed.ncbi.nlm.nih.gov/40037560/ 
+
+
+
+
+ 
+Omfattning
+Arbetet omfattar ca 6 sidor, exklusive försättsblad, referenser och bilagor.
+
+Disposition
+Arbetet ska innefatta: Försättsblad, bakgrund, syfte, metod, resultat, resultatdiskussion, referenslista och bilagor (översiktstabell över inkluderade artiklar, exempel på kvalitetsgranskning av en av arbetets resultatartiklar, samt söktabell om den inte redovisas inne i arbetet).
+
+Försättsblad och titel
+
+Försättsblad med titel och författare ska utformas enligt sista sida i skrivanvisningar (sista sida i bilaga 3). Titeln ska överensstämma med syftet och så adekvat som möjligt informera om ert arbetes innehåll. Frågeformuleringar eller förkortningar ska inte förekomma i titeln.
+Bakgrund
+I bakgrunden beskrivs valt tillstånd/sjukdom kort. Dessutom beskrivs vilka konsekvenser sjukdomen/tillståndet har för personen med sjukdom i det dagliga livet. Var noga med att inte skriva det du kan komma fram till i resultatet (d v s föregripa ditt resultat). 
+Allt innehåll i bakgrunden ska styrkas med referenser. Koppling till litteratur ska vara relevant för arbetet.
+Syfte
+Syftet var att beskriva personers upplevelser av att leva med Alzheimers sjukdom. 
+Syftet skrivs i preteritum (dåtid). 
+Ni ska formulera syftet enligt följande mall: 
+Syftet var att beskriva personers upplevelser av att leva med (tillstånd/sjukdom).
+Exempel:
+Syftet var att beskriva personers upplevelser av att leva med långvarig smärta.
+Syftet var att beskriva personers upplevelser av att leva med diabetes typ II.
+Ni kan inte välja tillstånd/sjukdomar som faller inom den specialistutbildades område. Det innebär att ni exempelvis inte kan skriva om:
+- Barns upplevelser av att leva med.... (Barnsjuksköterskor)
+- Personers upplevelse av att leva med postpartum-depression (Barnmorskor)
+
+
+Metod
+
+I metodavsnittet (som består av flera olika rubriker, se nedan) beskriver ni hur ni har gått tillväga i ert arbete för att besvara ert syfte. Följande underrubriker ska finnas med och presenteras i den ordning de står nedan:
+
+
+Inklusions- och exklusionskriterier
+Under rubriken inklusions- och exklusionskriterier beskriver ni vilka kriterier artiklarna ska uppfylla för att inkluderas eller exkluderas i arbetets resultatdel. 
+Endast vetenskapliga artiklar i form av originalartiklar med IMRaD-strukturen ska ingå i resultatdelen. Det innebär att ni inte kan använda ”discussion papers”. Inte heller reviewer (där forskarna sammanställt originalartiklar) kan användas i ert resultat.
+Bara artiklar med kvalitativ design ska användas. Även artiklar med mixad metod kan användas, men då kan ni bara använda den kvalitativa datan i artikeln i ert result
+
+Litteratursökning
+Under denna rubrik beskriver ni hur ni har gjort för att söka fram artiklar som svarar mot ert syfte. 
+Det finns flera sätt att söka vetenskapliga artiklar på, till exempel genom databassökningar utifrån ämnesord. Vidare kan en vald artikels referenslista studeras, s.k. manuell sökning (sekundärsökning). Vid en databassökning ska informationsbärande begrepp i syftet vara vägledande. Samtliga databaser, sökvägar och sökord ska presenteras i löpande text samt i     tabellform i en så kallad söktabell (se Tabell 1 nedan för innehåll och utseende). I tabellen ska även datum för sökningen framgå. De sökord som används ska presenteras som MeSH-termer, Headings, Thesaurus eller fritextord. Tabell 1 kan läggas som bilaga 1 om tabellen är utrymmeskrävande.
+
+Tabell 1
+Översikt av sökningar
+Databas
+Datum	Sökord	Avgr.	Antal träffar	Urval* 1
+	Urval*2	Urval* 3	Urval*4	Antal valda	 Artikel
+PubMed
+230310	("Heart Failure"[Mesh]) AND experiences	10 år, english	57	42	25	11	4	3	Larsson m.fl. (2020) Mcfeast m.fl. (2021);
+Shearer m.fl. (2016)
+Cinahl
+230310	(MH "Heart Failure") AND ("patient attitude*" OR "patient experienc*")	10 år, english, peer-reviewed	12	6	1	1	1	1	Dow m.fl. (2018); Steen m.fl. (2022)
+Pubmed
+230310	"Heart Failure"[Mesh] AND "Adaptation, Psychological"[Mesh]
+	10 år, english	11	6	3	3	2	2	Frid & Fred (2016); Almqvist m.fl. (2020)
+Pubmed
+230310	("Heart Failure"[Mesh]) AND "Attitude"[Mesh]	10 år, english	15	4	3	2	1	1	Jonsson (2022)
+
+*Urval 1: Antal valda artiklar efter att titel lästs, Urval 2: Antal valda artiklar efter att abstrakt lästs, Urval 3: Antal valda artiklar            efter att hela artikeln lästs, Urval 4: Antal valda artiklar som kvalitetsgranskades.
+
+
+
+Urval, relevansbedömning och kvalitetsgranskning
+Under denna rubrik beskriver ni hur ni gjort urvalet genom att bedöma artiklarnas relevans för att besvara syftet och hur ni granskar artiklarnas kvalitet. 
+Urvalsprocessen av artiklar till resultatet sker i flera steg. I första steget sker en relevansbedömning där artiklarnas titlar läses. Om titeln tycks relevant utifrån syftet läses abstraktet. I de fall abstraktet stämmer överens med syftet och inklusionskriterierna läses artikeln i sin helhet. Om artikeln fortfarande anses relevant genomförs nästa steg som är kvalitetsgranskning med stöd av vedertagna protokoll. 
+Denna urvalsprocess beskrivs med siffror i söktabellen (Tabell 1 ovan, se också att texten under tabellen förtydligar vad de olika urvalsstegen betyder – den texten behöver alltså finnas med under er tabell). Men ni beskriver också hur ni gått tillväga med urvalet, relevansbedömningen och kvalitetsgranskningen i löpande text. Kvalitetsgranskningen görs utifrån mall som finns i Moodle. Ingen referens till mallen behövs, däremot ska ett exempel på kvalitetsgranskning av en av era resultatartiklar utifrån mallen bifogas arbetet som bilaga.
+De kvalitetsgranskade artiklarna som valts ut till resultatet presenteras i bokstavsordning i en översiktstabell (tabell 2, se nedan för innehåll och utseende). Den läggs som bilaga till arbetet.
+Ni ska välja fyra artiklar. Se under rubriken ”inklusions- och exklusionskriterier” vilken typ av artiklar som kan användas.
+
+Tabell 2  Översikt av inkluderade artiklar.
+
+Författare Årtal
+Land	Studiens syfte	Typ av studie	Deltagare (bortfall)	Datainsamling Analys	Huvudresultat
+Frid & Fred (2016) Tyskland	Jämföra stressnivåer hos nyexaminerade sjuksköterskor	Kvantitativ Tvärsnitt	11357
+(18%)	Enkät- undersö-kning, deskriptiv statistik	Sjuksköterskorna ansåg att höga stressnivåer var vanligt bland samtliga nyexaminerade sjuksköterskor.
+Mcfeast et. al. (2021) USA	Redogöra för sjuksköterskors upplevelse av stress	Kvalitativ beskrivande studie	47 (3 st)	Individuella intervjuer, semi strukturerade frågor	Sjuksköterskorna berättade att stress var ett stort problem den första tiden. Missnöjda patienter och anhöriga var det som beskrevs som mest stressande
+
+ 
+Resultat
+Under rubriken resultat beskriver ni de data från artiklarnas resultatdelar som besvarar ert syfte. Resultatet består av två underrubriker Redogörelse av respektive artikel samt Sammanfattning. Med tanke på arbetets begränsade omfång bör inte resultatdelen omfatta mer än ca 2 sidor.
+
+Under rubrik Redogörelse av respektive artikel redogör ni för en artikel i taget (med referenser). 
+
+Under rubrik Sammanfattning beskriver ni en sammanfattning av de likheter ni hittat mellan artiklarnas resultat (med referenser). För G ska ni ha identifierat två (2) likheter mellan artiklarnas resultat (med referenser). För VG ska ni ha identifierat fler än två likheter mellan artiklarnas resultat (med referenser). Se betygskriterierna.
+
+Resultatdiskussion
+I resultatdiskussionen ska ni diskutera ert resultat gentemot annan litteratur genom att ge förslag på evidensbaserade omvårdnadsåtgärder utifrån vad ni har kommit fram till i ert resultat (se betygskriterierna för detaljer). 
+Utgå från de två likheter (för VG är det fler än två likheter) ni funnit i resultatet som beskriver personers behov. Beskriv behoven. Beskriv med referenser två (eller för VG fler än två) evidensbaserade omvårdnadsåtgärder som är aktuella relaterat till de identifierade behoven, beskriv även hur omvårdnadsåtgärderna ska utföras med stöd av referenser, på så sätt visar du dina kunskaper om omvårdnad (se betygskriterier för detaljer).
+Använd kurslitteratur, för betyg väl godkänd kan ni även använda er av minst en vetenskaplig artikel (som inte ingår i resultatet) i er resultatdiskussion. 
+Ni anger inte referenser till era resultatartiklar här i diskussionen när ni beskriver era likheter – nu är det ju ert resultat ni diskuterar – det är ni som är författarna och ni har kommit fram till något nytt. Däremot behöver ni förstås ange referenser till den litteratur ni diskuterar ert resultat mot. Fakta behöver alltid stödjas med referenser. 
+
+
+Referenser
+Se generella formalia nedan.
+
+Bilagor
+Se generella formalia nedan.
+
+
+Generella formalia för uppgiften
+Uppgiften lämnas in i wordformat och skrivs med typsnittet Palatino Linotype 11p. Radavståndet ska vara 1,15. Samtliga rubriker och all text skrivs i svart färg.
+
+Marginalerna ska vara 3,5 cm till vänster och 4,5 cm till höger och texten ska vara vänsterställd.
+
+Nytt stycke markeras genom en blankrad. Använd ej indrag.
+
+Rubriknivå 1 (Arial 19p fet)
+Används till titel på försättsbladet.
+
+Rubriknivå 2 (Arial 17p)
+Används till huvudrubrikerna Bakgrund, Syfte, Metod, Resultat, Resultatdiskussion och Referenser
+Rubriknivå 3 (Arial 14p fet)
+Används till underrubriker som till exempel underrubrikerna i metoddelen.
+
+Referenser skrivs i både löpande text och referenslista enligt APA-guide för Marie Cederschiöld högskola (MCHS), senaste versionen (länk finns i Biblioteket i Moodle). Vid hänvisning till böcker ska alltid de sidnummer du använt anges i löpande text (lokal rutin vid institutionen för hälsovetenskaper, ämnena omvårdnad och medicinsk vetenskap).
+
+Bilagor läggs sist i arbetet, efter referenserna, och har rubriken bilaga 1, bilaga 2 etc. Varje bilaga ska sidnumreras enligt följande exempel 1(2), dvs ”detta är sida ett av totalt två sidor”. Kom ihåg att i brödtexten hänvisa till både tabell- och bilagenummer.
+
+Försättsbladet sidnumreras inte.
+
+Språk och tempus
+
+I vetenskapligt skrivande används passiv form. Författarna ska vara ”osynliga i texten” och orden ”jag” och ”vi” undviks därför, inte heller kan man benämna sig själv som ”författaren”. Ett exempel är att skriva ”Fjorton abstrakt lästes” istället för ”Vi läste fjorton abstrakt”. Det är också viktigt att undvika värderande ord, och talspråk. 
+
+För att läsaren ska förstå vad man menar behöver man också använda samma benämning för samma sak genom hela arbetet. Skriver man till exempel om närstående kan man inte ibland byta ut det mot anhöriga eller familjemedlemmar.
+Bakgrunden skrivs i nutid - där beskriver man ju kunskap som redan finns, det vill säga det som är sant, man säger att såhär är det.
+Syftet skrivs i dåtid.
+Metoden skrivs i dåtid eftersom ni beskriver hur ni gjorde.
+Resultatet skrivs i dåtid eftersom ni presenterar det som ni fann.
+Diskussionen blir en blandning. Ert eget resultat blir i dåtid eftersom ni hänvisar tillbaka till det ("resultatet visade att"). Men mycket blir i nutid. När ni till exempel ska beskriva omvårdnadsåtgärder ska ni skriva i nutid eftersom ni beskriver något som ska göras. När man diskuterar resultaten i en diskussion ger man ju också en riktning in i framtiden - man ser inte bakåt utan ens resultat visar vägen mot en bättre omvårdnad.
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Titel
+Undertitel
+Författare
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dokumenttyp – kursnamn från kursplanen 
+Huvudområde: Klicka eller tryck här för att ange text. 
+Högskolepoäng: Klicka eller tryck här för att ange text.
+Termin/år: Klicka eller tryck här för att ange text.
+Kurskod:
+
